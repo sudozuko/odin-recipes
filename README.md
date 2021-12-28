@@ -1,2 +1,1 @@
-# odin-recipes
-First Odin assignment
+The current project is building an html webpage that contains 3 recipes. At the end of the project I will have demonstated the ability to: create an html boiler plate, embed images and links, structure lists and enter text.
