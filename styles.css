@@ -1,0 +1,11 @@
+h1{
+    text-align: center;
+    background-color: azure;
+    color:rgb(200, 200, 0);
+    font-family: 'Courier New', Courier, monospace;
+
+}
+.img-size{
+    height: auto;
+    width: 300px;
+}
